@@ -89,4 +89,4 @@ No. It reads the same public search any visitor uses.
 
 ## More scrapers
 
-SEEK is one of 13 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
+SEEK is one of 14 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).

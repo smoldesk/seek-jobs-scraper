@@ -1,5 +1,7 @@
 # SEEK, JobStreet & JobsDB Scraper
 
+![SEEK, JobStreet and JobsDB Scraper](https://raw.githubusercontent.com/smoldesk/apify-scrapers/main/assets/seek/banner.webp)
+
 Scrape job listings and salaries from SEEK, JobStreet and JobsDB across 8 countries in one run. No login, no API key. Runs on [Apify](https://apify.com/smoldesk/seek-jobs-scraper).
 
 ## What you get
